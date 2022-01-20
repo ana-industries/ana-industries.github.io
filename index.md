@@ -1,4 +1,6 @@
-# Who We Are
+# Work in ANA
+
+## Who We Are
 
 A team of two engineers and one designer with a mission to gather real asset management data and make it easily accessible and useful. We are here to make life easier for asset managers with a little help from our product.
 
@@ -8,7 +10,7 @@ In ANA, we believe that we don't need a huge team or a lengthy development cycle
 
 Our product focuses on gathering real, useful, on the ground data. There are a lot of talks about big data, data science, data-driven and what-not but very few pay attention to gathering good, quality data. ANA is here to fix that.
 
-# Who You Are
+## Who You Are
 
 You are a friendly, eager learner, and supportive person. Because we are!
 
@@ -16,7 +18,7 @@ You do not enjoy being micro-managed. You prefer to work at your own pace and ch
 
 You embrace failures, own and others'. You prefer to tinker out a [satisficing](https://en.wikipedia.org/wiki/Satisficing) solution by doing and failing, not following a 10 pages design document. In ANA, we start real works with a single page pitching document with hand-drawn sketches.
 
-# What it is like to work here
+## What it is like to work here
 
 ANA is a 100% remote team. The engineer is working in Australia. The programmer in Malaysia. The designer in the USA.
 
